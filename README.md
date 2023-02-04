@@ -56,12 +56,10 @@ React, Javascript, Material-UI, React-router-dom, Axios, Styled-components, Json
 5. One can check the availability and book the available Hotels and Rooms.
 
 
-# Contributers
+# Author
 
-- [@vishnusankar95](https://github.com/vishnusankar95)
-- [@Rakesh-pilly](https://github.com/Rakesh-pilly)
-- [@Ramlala-Yadav-Git](https://github.com/Ramlala-Yadav-Git)
-- [@ManishSinghBhadouria](https://github.com/ManishSinghBhadouria)
+- [tushar-upadhya](https://portfolio-2023-bice-omega.vercel.app/)
+
 
 
 
