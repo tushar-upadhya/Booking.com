@@ -1,87 +1,70 @@
-# Booking.Com
+# Getting Started with Create React App
 
-![Logo](https://cf.bstatic.com/static/img/bcom_logo_blue_bg/f12f834e849b2a7f752a14b2598a6ddfeda1e713.svg)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Booking.com has grown from a small Dutch start-up to one of the world’s leading digital travel companies. Part of Booking Holdings Inc. (NASDAQ: BKNG), Booking.com’s mission is to make it easier for everyone to experience the world.
+## Available Scripts
 
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px">Visit our live website
-https://booking-com-final-version.vercel.app/
+In the project directory, you can run:
 
-## Installation
+### `npm start`
 
-Booking.com requires [Node.js](https://nodejs.org/) to run.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-Download the project.
-[Download Here](https://github.com/Ramlala-Yadav-Git/Booking.com-clone/archive/refs/heads/main.zip)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
+### `npm test`
 
-Clone the project from Command prompt or Bash.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-```bash
-git clone https://github.com/Ramlala-Yadav-Git/Booking.com-clone.git
-```
+### `npm run build`
 
-Install the dependencies and devDependencies and start the server from command propmt or any other command shell.
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-And
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Run the project.  
-```bash
-cd Booking.com-clone
-npm install
-npm start
-```
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-# Tech Stack
+### `npm run eject`
 
-React, Javascript, Material-UI, React-router-dom, Axios, Styled-components, Json-server, JSX, CSS
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-# Technologies Used
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-<p float="left">
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_640.png" width="100" height="100">
-    <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_640.png" width="100" height="100">
-    <img src="https://raw.githubusercontent.com/krishaayjois21/krishaayjois21/master/assets/javascript.png" width="100" height="100">
-    <img src="https://yogalayout.com/static/reactnative.4e03ea5d.png" width="100" height="100">
- </p>
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Learn More
 
-# Functionalities Associated with this website
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-1. A user can register his account.
-2. User can also authenticate with OAuth.
-3. User can search for a room in various hotels.
-4. User can filter the Hotels and Rooms on the basis of Budget and Star Rating.
-5. One can check the availability and book the available Hotels and Rooms.
+To learn React, check out the [React documentation](https://reactjs.org/).
 
+### Code Splitting
 
-# Author
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-- [tushar-upadhya](https://portfolio-2023-bice-omega.vercel.app/)
+### Analyzing the Bundle Size
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
+### Making a Progressive Web App
 
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-# Glimpse of website
+### Advanced Configuration
 
-1. Langing Page
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-![Landing Page](https://github.com/ManishSinghBhadouria/api/blob/gh-pages/Booking11/Homepage.png?raw=true)
+### Deployment
 
-2. Login-Signup Page
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-![Login-Signup page](https://github.com/ManishSinghBhadouria/api/blob/gh-pages/Booking11/Login-Signup.png?raw=true)
+### `npm run build` fails to minify
 
-3. Search Page
-
-![Search](https://github.com/ManishSinghBhadouria/api/blob/gh-pages/Booking11/Search.png?raw=true)
-
-4. Footer
-
-![Footer](https://github.com/ManishSinghBhadouria/api/blob/gh-pages/Booking11/Footer.png?raw=true)
-
-
-## Feedback
-
-
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
